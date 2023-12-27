@@ -1,4 +1,5 @@
-import { NavBar, Hero, Generate, FAQ, Footer, Contact } from "./components";
+import { Contact, FAQ, Footer, Generate, Hero, NavBar } from "./components";
+
 // Comment for message
 function App() {
   return (

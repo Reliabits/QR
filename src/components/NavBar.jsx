@@ -4,7 +4,7 @@ import Logo from "../assets/logo.png";
 const NavBar = () => {
   return (
     <div className="flex justify-around items-center pt-[20px]">
-      <a href="#">
+      <a href="">
         <img src={Logo} alt="instantQR logo" className="w-auto h-[50px]" />
       </a>
       {/* <ul className="flex gap-[20px]">
